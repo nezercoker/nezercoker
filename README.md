@@ -8,7 +8,6 @@ Welcome to my GitHub space! I’m passionate about building resilient infrastruc
 ---
 
 ## 🚀 My Focus Areas
-
 | Domain | Topics |
 |--------|--------|
 | ☁️ **Cloud & SecOps** | Azure, M365, Sentinel, Intune, AWS |
