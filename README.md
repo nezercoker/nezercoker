@@ -39,13 +39,6 @@ Welcome to my GitHub space! I’m passionate about building resilient infrastruc
 
 ---
 
-## 📫 Let's Connect
-- 🌐 [nezer.dev](https://nezercoker.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/taiwocoker)
-- ✉️ coker.taiwo@outlook.com
-
----
-
 > 🧠 *"Automate the boring. Secure the vital. Engineer the future."*
 
 <!--
