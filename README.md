@@ -28,17 +28,14 @@ Welcome to my GitHub space! I’m passionate about building resilient infrastruc
 
 ---
 
-## 🏅 Certifications & Badges
+### 🏅 Certifications & Badges
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ITIL%20v4-Certified-blue?logo=itil" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ900-blue?logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ104-blue?logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/MSc-Information%20Technology-success" />
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google" />
-  <img src="https://img.shields.io/badge/SQL-Certified-critical?logo=sqlite" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws" />
-</p>
+[![MSc IT](https://img.shields.io/badge/MSc-Information%20Technology-success)]()
+[![ITIL](https://img.shields.io/badge/ITIL%20v4-Certified-blue?logo=itil)]()
+[![AZ-900](https://img.shields.io/badge/Microsoft%20Azure-AZ900-blue?logo=microsoft-azure)]()
+[![Google DA](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google)]()
+[![SQL](https://img.shields.io/badge/SQL-Certified-critical?logo=sqlite)]()
+[![AWS CP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws)]()
 
 ---
 
