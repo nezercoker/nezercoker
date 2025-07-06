@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Taiwo Coker
 
-🎯 IT Infrastructure Engineer | 🌩️ Cloud & DevOps Explorer |⚙️ **Software Engineer** |
+🎯 IT Infrastructure Engineer | 🌩️ Cloud & DevOps Explorer |⚙️ **Software Engineer** | 
 🤖 AI & Blockchain Enthusiast | 💡 AI Automation Specialist | 🎨 Creator at **NezerMedia**
 
 Welcome to my GitHub space! I’m passionate about building resilient infrastructure, automating workflows, and exploring cloud-native technologies.
