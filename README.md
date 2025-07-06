@@ -22,6 +22,23 @@ Welcome to my GitHub space! I’m passionate about building resilient infrastruc
 - **Power Apps Stock Tracker**: Built for NHS, automated inventory across two hospital sites
 - **Exchange Cleanup Tool**: PowerShell GUI to reclaim storage across 500+ mailboxes
 - **Patch Automation Pipeline**: Reduced downtime by 40% for critical systems
+- 🤖 **LinkedIn AI Content Generator** – GPT-powered tool that creates and schedules optimized LinkedIn posts using context + intent prompts.
+- 🎥 **AI Video Creator** – End-to-end script-to-video automation using LLM + video synthesis tools.
+- ♻️ **NFT Carbon Emission Tracker** – Blockchain-based environmental tracking tool.
+
+---
+
+## 🏅 Certifications & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ITIL%20v4-Certified-blue?logo=itil" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ900-blue?logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ104-blue?logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/MSc-Information%20Technology-success" />
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google" />
+  <img src="https://img.shields.io/badge/SQL-Certified-critical?logo=sqlite" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws" />
+</p>
 
 ---
 
