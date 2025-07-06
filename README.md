@@ -8,10 +8,13 @@ Welcome to my GitHub space! I’m passionate about building resilient infrastruc
 ---
 
 ## 🚀 My Focus Areas
-- 🔐 Hybrid Cloud & Enterprise Security
-- ⚙️ Infrastructure as Code with PowerShell & Terraform
-- ☁️ Azure, M365, Intune, Defender for Cloud
-- 📈 Automation, Monitoring & Uptime
+| Domain | Topics |
+|--------|--------|
+| ☁️ **Cloud & SecOps** | Azure, M365, Sentinel, Intune, AWS |
+| 🔧 **DevOps & IaC** | GitHub Actions, Terraform, PowerShell |
+| 🤖 **AI Automation & Agents** | Custom AI Agents, Workflow Orchestration, GPT integrations |
+| 🪙 **Blockchain/Web3** | NFTs, Smart Contracts, Carbon Offset Tracking |
+| 🖥️ **Software Engineering** | JavaScript / React, API-first apps, low-code platforms 
 
 ---
 
